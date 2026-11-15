@@ -1,0 +1,19 @@
+{
+ "mars_kurak": {"label": "Mars · kurak regolit", "tag": "mars_kurak", "crit": {
+   "P": {"hi": 100, "w": "yuksek"}, "AI": {"hi": 0.05, "w": "yuksek"}, "bare": {"lo": 80, "w": "yuksek", "req": true},
+   "DTR": {"lo": 14, "w": "orta"}, "T": {"hi": 15, "w": "orta"}, "elev": {"lo": 1000, "w": "dusuk"}, "noice": true}},
+ "mars_buz": {"label": "Mars · buzlu / periglasiyal", "tag": "mars_buz", "crit": {
+   "T": {"hi": -8, "w": "yuksek"}, "P": {"hi": 250, "w": "orta"}, "perma": {"mode": "var", "w": "yuksek", "req": true},
+   "FT": {"lo": 30, "w": "orta"}, "bare": {"lo": 50, "w": "yuksek"}, "noice": true}},
+ "mars_volkanik": {"label": "Mars · bazaltik volkanik", "tag": "mars_volkanik", "crit": {
+   "lith": {"set": [2, 10, 12], "w": "yuksek", "req": true}, "bare": {"lo": 30, "w": "orta"}, "T": {"hi": 10, "w": "orta"},
+   "P": {"hi": 1000, "w": "dusuk"}, "noice": true}},
+ "mars_sulu": {"label": "Mars · evaporit / sulu çökel", "tag": "mars_sulu", "crit": {
+   "lith": {"set": [14, 1], "w": "yuksek"}, "AI": {"hi": 0.2, "w": "yuksek"}, "bare": {"lo": 50, "w": "orta"},
+   "P": {"hi": 300, "w": "orta"}, "noice": true}},
+ "ay_regolit": {"label": "Ay · bazaltik regolit düzlüğü", "tag": "ay", "crit": {
+   "lith": {"set": [2, 12], "w": "yuksek"}, "P": {"hi": 300, "w": "yuksek"}, "bare": {"lo": 50, "w": "yuksek"},
+   "relief": {"hi": 800, "w": "orta"}, "W": {"hi": 4, "w": "dusuk"}, "noice": true}},
+ "ay_soguk": {"label": "Ay · kutup / aşırı soğuk", "tag": null, "crit": {
+   "T": {"hi": -15, "w": "yuksek"}, "P": {"hi": 200, "w": "yuksek"}, "bare": {"lo": 50, "w": "yuksek"}, "noice": true}}
+}

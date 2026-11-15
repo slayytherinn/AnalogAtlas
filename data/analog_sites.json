@@ -1,0 +1,697 @@
+{
+ "_note": "Literatürde gezegen analoğu olarak kullanılan sahalar. Koordinatlar yaklaşık (±0,1–0,3°) merkez noktalardır; parametre değerleri sahanın düştüğü 0,5° ızgara hücresinden alınır, saha ölçümü değildir.",
+ "tags": {
+  "mars_kurak": "Mars · kurak/regolit",
+  "mars_buz": "Mars · buzlu/periglasiyal",
+  "mars_volkanik": "Mars · volkanik",
+  "mars_sulu": "Mars · sulu/evaporit/hidrotermal",
+  "ay": "Ay · volkanik/regolit",
+  "krater": "Çarpma krateri",
+  "egitim": "Astronot/saha eğitimi"
+ },
+ "sites": [
+  {
+   "id": "atacama_yungay",
+   "name": "Atacama Çölü (Yungay)",
+   "country": "Şili",
+   "lat": -24.1,
+   "lon": -70.0,
+   "tags": [
+    "mars_kurak"
+   ],
+   "ref": "Navarro-González vd. 2003, Science",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2003–2005",
+     "org": "NASA ASTEP · Carnegie Mellon · SETI",
+     "what": "Life in the Atacama (LITA): Zoë otonom rover ile uzun mesafe sürüş ve yaşam izi arama testleri.",
+     "url": "https://seti.org/press-release/zoe-robot-returns-chiles-atacama-desert-nasa-mission-search-subsurface-life"
+    },
+    {
+     "y": "2016–2019",
+     "org": "NASA Ames",
+     "what": "ARADS: Mars için rover üstü matkap, numune aktarımı ve yaşam izi algılama cihazlarının saha denemeleri.",
+     "url": "https://www.nasa.gov/ames/arads"
+    }
+   ]
+  },
+  {
+   "id": "pampa_joya",
+   "name": "Pampa de La Joya",
+   "country": "Peru",
+   "lat": -16.8,
+   "lon": -71.9,
+   "tags": [
+    "mars_kurak"
+   ],
+   "ref": "Valdivia-Silva vd. 2011",
+   "test_level": "bilim",
+   "tests": [
+    {
+     "y": "2004–2008",
+     "org": "Valdivia-Silva vd. (NASA Ames ile)",
+     "what": "Viking benzeri hiper-kurak toprakların iklim ve kimya gözlemleri; Mars toprak analoğu olarak çok yıllık çalışma.",
+     "url": "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/abs/climatological-characteristics-in-the-extreme-hyperarid-region-of-pampas-de-la-joya-peru-astrobiological-approach-in-four-years-of-observation-20042008/2997D5A36434B310BCA2FB4C48CF84C8"
+    }
+   ]
+  },
+  {
+   "id": "mcmurdo_dry",
+   "name": "McMurdo Kuru Vadileri",
+   "country": "Antarktika",
+   "lat": -77.5,
+   "lon": 161.8,
+   "tags": [
+    "mars_buz",
+    "mars_kurak"
+   ],
+   "ref": "Marchant & Head 2007, Icarus",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "1960'lar–1970'ler",
+     "org": "NASA (Viking hazırlığı)",
+     "what": "Kuru Vadi topraklarında mikrobiyal yaşam araştırmaları; Viking yaşam deneylerinin tasarımına girdi sağladı.",
+     "url": "https://assets.science.nasa.gov/content/dam/science/psd/astrobiology/graphic-histories/Astrobiology%20Graphic%20Histories%20Issue%205%20Edition%201%20lowres.pdf"
+    }
+   ]
+  },
+  {
+   "id": "untersee",
+   "name": "Untersee Gölü",
+   "country": "Antarktika",
+   "lat": -71.35,
+   "lon": 13.45,
+   "tags": [
+    "mars_buz"
+   ],
+   "ref": "Andersen vd. 2011",
+   "test_level": "bilim",
+   "tests": [
+    {
+     "y": "2008–günümüz",
+     "org": "NASA astrobiyoloji desteği · D. Andersen (SETI)",
+     "what": "Buzla kaplı göl ve tortullarında biyoimza ve yaşanabilirlik araştırmaları; düzenli saha sezonları.",
+     "url": "https://astrobiology.nasa.gov/nai/annual-reports/2015/seti/lake-sediment-habitats-lake-habitability-and-sediment-biosignatures/"
+    }
+   ]
+  },
+  {
+   "id": "devon_haughton",
+   "name": "Devon Adası · Haughton",
+   "country": "Kanada",
+   "lat": 75.4,
+   "lon": -89.7,
+   "tags": [
+    "mars_buz",
+    "krater",
+    "egitim"
+   ],
+   "ref": "Lee & Osinski 2005; Haughton-Mars Project",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "1997–",
+     "org": "NASA Haughton-Mars Project · Mars Institute · SETI",
+     "what": "Mars için robotik kol, rover, matkap, kamera/spektrometre/radar ve saha uzay giysisi testleri; basınçlı rover sürüş simülasyonları.",
+     "url": "https://www.aerospacetestinginternational.com/features/testing-for-mars-in-the-high-arctic.html"
+    },
+    {
+     "y": "2010",
+     "org": "NASA Ames (K10) · NASA JSC",
+     "what": "HMP-2010: K10 robotları (lidar, yer radarı, spektrometre) ile keşif senaryoları.",
+     "url": "https://news.softpedia.com/news/NASA-Trains-for-Space-Exploration-in-the-Canadian-Arctic-149179.shtml"
+    },
+    {
+     "y": "2013",
+     "org": "Kanada Uzay Ajansı · Western Üniv.",
+     "what": "Astronot Jeremy Hansen'in jeoloji saha eğitimi.",
+     "url": "https://www.universetoday.com/articles/to-the-moon-jeremy-canadian-astronaut-thinks-off-planet-geology-during-arctic-trip"
+    }
+   ]
+  },
+  {
+   "id": "axel_heiberg",
+   "name": "Axel Heiberg Adası",
+   "country": "Kanada",
+   "lat": 79.4,
+   "lon": -90.7,
+   "tags": [
+    "mars_buz",
+    "mars_sulu"
+   ],
+   "ref": "Andersen vd. 2002",
+   "test_level": "bilim",
+   "tests": [
+    {
+     "y": "2010",
+     "org": "McGill Üniv. · Kanada Uzay Ajansı desteği",
+     "what": "Lost Hammer kaynağında metan tüketen bakteriler; Mars'taki olası soğuk kaynakların analoğu.",
+     "url": "https://sciencedaily.com/releases/2010/06/100604132041.htm"
+    }
+   ]
+  },
+  {
+   "id": "svalbard_bockfjorden",
+   "name": "Svalbard · Bockfjorden (AMASE)",
+   "country": "Norveç",
+   "lat": 79.4,
+   "lon": 13.4,
+   "tags": [
+    "mars_buz",
+    "mars_volkanik"
+   ],
+   "ref": "Steele vd. 2007 (AMASE)",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2003–",
+     "org": "AMASE (NASA · ESA · Carnegie)",
+     "what": "Arktik Mars Analoğu Svalbard Seferi: Mars cihazları ve numune protokollerinin saha testleri.",
+     "url": "https://wikipedia.com/wiki/AMASE"
+    },
+    {
+     "y": "2008",
+     "org": "NASA / JPL (MSL ekibi)",
+     "what": "Curiosity'nin CheMin ve SAM cihazlarının prototipleriyle saha denemesi.",
+     "url": "https://astrobiology.nasa.gov/news/mars-science-laboratory-shakedown-in-the-high-arctic/"
+    }
+   ]
+  },
+  {
+   "id": "iceland_askja",
+   "name": "İzlanda · Askja",
+   "country": "İzlanda",
+   "lat": 65.03,
+   "lon": -16.75,
+   "tags": [
+    "mars_volkanik",
+    "egitim"
+   ],
+   "ref": "Apollo jeoloji eğitimi 1965–67",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "1965, 1967",
+     "org": "NASA · USGS",
+     "what": "Apollo astronotlarının volkanik arazide jeoloji eğitimi.",
+     "url": "https://en.wikipedia.org/wiki/Apollo_program_training"
+    }
+   ]
+  },
+  {
+   "id": "iceland_holuhraun",
+   "name": "İzlanda · Holuhraun",
+   "country": "İzlanda",
+   "lat": 64.87,
+   "lon": -16.83,
+   "tags": [
+    "mars_volkanik"
+   ],
+   "ref": "Voigt vd. 2017",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2019",
+     "org": "SAND-E (NASA PSTAR desteği)",
+     "what": "Mars 2020 hazırlığı: rover ve dron ile yarı otonom navigasyon ve tortul ortam keşfi.",
+     "url": "https://phys.org/news/2019-08-nasa-descends-icelandic-lava-field.html"
+    }
+   ]
+  },
+  {
+   "id": "mauna_kea",
+   "name": "Hawaii · Mauna Kea (PISCES)",
+   "country": "ABD",
+   "lat": 19.8,
+   "lon": -155.47,
+   "tags": [
+    "ay",
+    "mars_volkanik"
+   ],
+   "ref": "NASA ISRU saha testleri 2008–2012",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2008, 2010, 2012",
+     "org": "NASA · PISCES · CSA",
+     "what": "Ay için yerinde kaynak kullanımı (ISRU) saha testleri; RESOLVE gezgin prototipi.",
+     "url": "https://ntrs.nasa.gov/citations/20140008708"
+    }
+   ]
+  },
+  {
+   "id": "hiseas",
+   "name": "Hawaii · Mauna Loa (HI-SEAS)",
+   "country": "ABD",
+   "lat": 19.6,
+   "lon": -155.48,
+   "tags": [
+    "mars_volkanik",
+    "egitim"
+   ],
+   "ref": "HI-SEAS habitat çalışmaları",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2013–2018",
+     "org": "Hawaii Üniv. · NASA finansmanı",
+     "what": "HI-SEAS I–VI: 4 ila 12 aylık izole Mars habitat görevleri (beslenme, psikoloji, ekip dinamiği).",
+     "url": "https://hi-seas.org/missions-i-vi"
+    }
+   ]
+  },
+  {
+   "id": "kau_desert",
+   "name": "Hawaii · Ka'ū Çölü",
+   "country": "ABD",
+   "lat": 19.35,
+   "lon": -155.3,
+   "tags": [
+    "mars_volkanik"
+   ],
+   "ref": "Seelos vd. 2010",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2016–2017",
+     "org": "NASA BASALT",
+     "what": "Kīlauea lav alanlarında bilim odaklı Mars EVA operasyon simülasyonları.",
+     "url": "https://www.nasa.gov/missions/analog-field-testing/what-is-basalt/"
+    }
+   ]
+  },
+  {
+   "id": "mdrs",
+   "name": "Utah · MDRS (Hanksville)",
+   "country": "ABD",
+   "lat": 38.41,
+   "lon": -110.79,
+   "tags": [
+    "mars_kurak",
+    "egitim"
+   ],
+   "ref": "Mars Society MDRS",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2001–günümüz",
+     "org": "Mars Society",
+     "what": "Mars Çöl Araştırma İstasyonu: yüzlerce ekip rotasyonu, habitat ve EVA simülasyonları.",
+     "url": "https://www.marsdaily.com/reports/Mars_Desert_Research_Station_Completes_First_Crew_Rotation.html"
+    }
+   ]
+  },
+  {
+   "id": "death_valley",
+   "name": "Ölüm Vadisi",
+   "country": "ABD",
+   "lat": 36.5,
+   "lon": -116.9,
+   "tags": [
+    "mars_kurak",
+    "mars_sulu"
+   ],
+   "ref": "Baker vd. 2003",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2012",
+     "org": "NASA / JPL",
+     "what": "Curiosity test roveri Scarecrow ile Mojave Dumont kumullarında sürüş denemeleri (bölgede).",
+     "url": "https://www.jpl.nasa.gov/news/mojave-desert-tests-prepare-for-nasa-mars-roving/"
+    },
+    {
+     "y": "çeşitli",
+     "org": "NASA · Milli Park Servisi",
+     "what": "Ölüm Vadisi'nde Mars teknolojisi ve uzaktan algılama testleri.",
+     "url": "https://home.nps.gov/deva/nasa.htm"
+    }
+   ]
+  },
+  {
+   "id": "black_point",
+   "name": "Arizona · Black Point Lav Akıntısı (Desert RATS)",
+   "country": "ABD",
+   "lat": 35.68,
+   "lon": -111.43,
+   "tags": [
+    "ay",
+    "egitim"
+   ],
+   "ref": "NASA Desert RATS 2008–2011",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2008–2011",
+     "org": "NASA Desert RATS",
+     "what": "Basınçlı Uzay Keşif Aracı (SEV), habitat ve robotlarla Ay/Mars yüzey operasyonu simülasyonları.",
+     "url": "https://blogs.nasa.gov/analogsfieldtesting/2010/09/13/post_1284400898820"
+    }
+   ]
+  },
+  {
+   "id": "meteor_crater",
+   "name": "Arizona · Meteor Krateri",
+   "country": "ABD",
+   "lat": 35.03,
+   "lon": -111.02,
+   "tags": [
+    "krater",
+    "ay",
+    "egitim"
+   ],
+   "ref": "Shoemaker 1963; Kring 2007",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "1960'lar–1972",
+     "org": "NASA · USGS",
+     "what": "Apollo astronotlarına krater jeolojisi ve örnekleme eğitimi.",
+     "url": "https://eos.org/features/the-art-of-doing-fieldwork-on-the-moon"
+    },
+    {
+     "y": "2008–",
+     "org": "Lunar and Planetary Institute",
+     "what": "Constellation ve Artemis programlarını destekleyen saha eğitimi.",
+     "url": "https://barringercrater.com/blog/dr-krings-astronaut-training-volume-published"
+    }
+   ]
+  },
+  {
+   "id": "craters_moon_id",
+   "name": "Idaho · Craters of the Moon",
+   "country": "ABD",
+   "lat": 43.42,
+   "lon": -113.52,
+   "tags": [
+    "ay",
+    "mars_volkanik",
+    "egitim"
+   ],
+   "ref": "Hughes vd. 2019 (FINESSE)",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "1969",
+     "org": "NASA",
+     "what": "Apollo 14 astronotlarının volkanik jeoloji eğitimi.",
+     "url": "https://www.nps.gov/crmo/learn/historyculture/space-exploration-research-and-astronaut-training.htm"
+    },
+    {
+     "y": "2016",
+     "org": "NASA BASALT · FINESSE",
+     "what": "Mars EVA simülasyonları ve volkanik süreç araştırmaları.",
+     "url": "https://www.nasa.gov/missions/analog-field-testing/what-is-basalt/"
+    }
+   ]
+  },
+  {
+   "id": "pavilion",
+   "name": "Pavilion Gölü",
+   "country": "Kanada",
+   "lat": 50.87,
+   "lon": -121.74,
+   "tags": [
+    "mars_sulu"
+   ],
+   "ref": "Lim vd. 2011 (PLRP)",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2004–2011",
+     "org": "NASA · Kanada Uzay Ajansı",
+     "what": "Pavilion Gölü Araştırma Projesi: DeepWorker denizaltılarıyla mikrobiyalitlerin keşfi; astronot operasyon denemeleri.",
+     "url": "https://astrobiology.nasa.gov/news/looking-for-life-on-mars-in-a-canadian-lake/"
+    }
+   ]
+  },
+  {
+   "id": "rio_tinto",
+   "name": "Rio Tinto",
+   "country": "İspanya",
+   "lat": 37.72,
+   "lon": -6.55,
+   "tags": [
+    "mars_sulu"
+   ],
+   "ref": "Fernández-Remolar vd. 2005",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2003–2005",
+     "org": "NASA · CAB (İspanya)",
+     "what": "MARTE: Mars'ta yeraltı yaşamı aramak için otomatik matkap ve numune işleme simülasyonu.",
+     "url": "https://core.ac.uk/download/36046284.pdf"
+    }
+   ]
+  },
+  {
+   "id": "lanzarote",
+   "name": "Lanzarote (PANGAEA)",
+   "country": "İspanya",
+   "lat": 29.0,
+   "lon": -13.7,
+   "tags": [
+    "mars_volkanik",
+    "ay",
+    "egitim"
+   ],
+   "ref": "ESA PANGAEA eğitimi",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2016–günümüz",
+     "org": "ESA PANGAEA",
+     "what": "Astronotlar ve mühendisler için Ay/Mars jeoloji eğitimi.",
+     "url": "https://www.esa.int/ESA_Multimedia/Images/2017/11/Pangaea_training_in_Lanzarote"
+    }
+   ]
+  },
+  {
+   "id": "teide",
+   "name": "Tenerife · Teide",
+   "country": "İspanya",
+   "lat": 28.27,
+   "lon": -16.64,
+   "tags": [
+    "mars_volkanik"
+   ],
+   "ref": "ExoMars cihaz testleri",
+   "test_level": "bilim",
+   "tests": [
+    {
+     "y": "2010'lar",
+     "org": "Valladolid Üniv. (ExoMars RLS ekibi)",
+     "what": "Volkanik analog kayaçlarda Raman spektroskopisi çalışmaları.",
+     "url": "https://uvadoc.uva.es/bitstream/handle/10324/48447/Spectroscopic-study-terrestrial-analogues.pdf?sequence=1"
+    }
+   ]
+  },
+  {
+   "id": "dallol",
+   "name": "Danakil · Dallol",
+   "country": "Etiyopya",
+   "lat": 14.24,
+   "lon": 40.3,
+   "tags": [
+    "mars_sulu"
+   ],
+   "ref": "Cavalazzi vd. 2019",
+   "test_level": "bilim",
+   "tests": [
+    {
+     "y": "2016–2018",
+     "org": "Europlanet",
+     "what": "Hiper-asidik, tuzlu hidrotermal ortamda çok disiplinli saha kampanyaları (Mars ve Titan analoğu).",
+     "url": "https://www.europlanet-society.org/?p=3823"
+    }
+   ]
+  },
+  {
+   "id": "namib",
+   "name": "Namib Çölü (Gobabeb)",
+   "country": "Namibya",
+   "lat": -23.56,
+   "lon": 15.04,
+   "tags": [
+    "mars_kurak"
+   ],
+   "ref": "Warren-Rhodes vd. 2013",
+   "test_level": "yok",
+   "tests": []
+  },
+  {
+   "id": "pilbara",
+   "name": "Pilbara (Dresser)",
+   "country": "Avustralya",
+   "lat": -21.2,
+   "lon": 119.4,
+   "tags": [
+    "mars_sulu"
+   ],
+   "ref": "Van Kranendonk vd. 2008",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2019",
+     "org": "NASA · ESA · UNSW",
+     "what": "Mars 2020 ve ExoMars bilim ekiplerinin stromatolitler üzerinde biyoimza tanıma eğitimi.",
+     "url": "https://www.unsw.edu.au/news/2019/09/nasa-and-european-space-agency-join-unsw-in-outback-for-training"
+    }
+   ]
+  },
+  {
+   "id": "arkaroola",
+   "name": "Arkaroola",
+   "country": "Avustralya",
+   "lat": -30.3,
+   "lon": 139.3,
+   "tags": [
+    "mars_kurak"
+   ],
+   "ref": "Mars Society Australia",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2009",
+     "org": "NASA Spaceward Bound · Mars Society Australia",
+     "what": "Öğretmen ve öğrencilerle Mars analoğu saha seferi.",
+     "url": "https://www.marssociety.org.au/sites/default/files/library/SBA-2009_Expedition_Report.pdf"
+    }
+   ]
+  },
+  {
+   "id": "qaidam",
+   "name": "Qaidam Havzası",
+   "country": "Çin",
+   "lat": 37.5,
+   "lon": 93.5,
+   "tags": [
+    "mars_kurak",
+    "mars_sulu"
+   ],
+   "ref": "Xiao vd. 2017",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2017",
+     "org": "Çin Bilimler Akademisi · Haixi yönetimi",
+     "what": "Da Qaidam'da (Qinghai) Mars simülasyon üssü kurulması planı duyuruldu.",
+     "url": "https://www.marsdaily.com/reports/China_to_build_first_Mars_simulation_base_999.html"
+    }
+   ]
+  },
+  {
+   "id": "ladakh",
+   "name": "Ladakh · Tso Kar",
+   "country": "Hindistan",
+   "lat": 33.3,
+   "lon": 77.9,
+   "tags": [
+    "mars_kurak",
+    "mars_buz"
+   ],
+   "ref": "Pandey vd. 2020",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "2016",
+     "org": "NASA Spaceward Bound India",
+     "what": "Ladakh'ta Mars analoğu saha seferi.",
+     "url": "https://bmsis.org/?p=2636"
+    },
+    {
+     "y": "2025",
+     "org": "ISRO",
+     "what": "HOPE analog görevi: Tso Kar vadisinde 10 günlük izole habitat ve insan dayanıklılığı simülasyonu.",
+     "url": "https://www.isro.gov.in/Space_Analog_Mission.html"
+    }
+   ]
+  },
+  {
+   "id": "uyuni",
+   "name": "Salar de Uyuni",
+   "country": "Bolivya",
+   "lat": -20.2,
+   "lon": -67.5,
+   "tags": [
+    "mars_sulu"
+   ],
+   "ref": "Evaporit analoğu çalışmaları",
+   "test_level": "yok",
+   "tests": []
+  },
+  {
+   "id": "sudbury",
+   "name": "Sudbury",
+   "country": "Kanada",
+   "lat": 46.6,
+   "lon": -81.0,
+   "tags": [
+    "krater",
+    "ay",
+    "egitim"
+   ],
+   "ref": "Artemis jeoloji eğitimi",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "1971",
+     "org": "NASA",
+     "what": "Apollo 16 astronotlarının çarpma krateri jeolojisi eğitimi.",
+     "url": "https://amp.cbc.ca/news/canada/sudbury/apollo-asronauts-trained-sudbury-50-years-ago-1.6096556"
+    }
+   ]
+  },
+  {
+   "id": "ries",
+   "name": "Nördlinger Ries",
+   "country": "Almanya",
+   "lat": 48.88,
+   "lon": 10.6,
+   "tags": [
+    "krater",
+    "egitim"
+   ],
+   "ref": "Apollo 14 ve ESA eğitimleri",
+   "test_level": "ajans",
+   "tests": [
+    {
+     "y": "1970",
+     "org": "NASA",
+     "what": "Apollo 14 astronotlarının çarpma krateri jeolojisi eğitimi.",
+     "url": "https://www.nasa.gov/history/alsj/a14/a14ries.html"
+    }
+   ]
+  },
+  {
+   "id": "lonar",
+   "name": "Lonar Krateri",
+   "country": "Hindistan",
+   "lat": 19.98,
+   "lon": 76.51,
+   "tags": [
+    "krater",
+    "mars_volkanik"
+   ],
+   "ref": "Fredriksson 1973",
+   "test_level": "bilim",
+   "tests": [
+    {
+     "y": "2024",
+     "org": "Freiburg Üniv. · IIT",
+     "what": "Bazalt hedefli krater, Mars'taki çift katmanlı ejektalı kraterlerin analoğu olarak inceleniyor.",
+     "url": "https://meetingorganizer.copernicus.org/EPSC2024/EPSC2024-1138.html"
+    }
+   ]
+  }
+ ],
+ "test_levels": {
+  "ajans": "Uzay ajansı testi / eğitimi",
+  "bilim": "Bilimsel analog araştırması",
+  "yok": "Kayıtlı test bulunamadı"
+ },
+ "test_note": "Test geçmişi Kasım 2026 web taramasıyla derlendi; her kayıt kaynak bağlantısıyla verildi. \"Bulunamadı\", hiç yapılmadığı anlamına gelmez."
+}
